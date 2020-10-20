@@ -21,10 +21,10 @@ My name is Pedro and I'm an undergraduate student at University of São Paulo, B
 
 ## :earth_americas: Social and how to reach me :earth_americas:
 
-[<img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" width="50px"/>](https://github.com/pedrousp)
-[<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" width="50px"/>](https://t.me/pedropp98)
-[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="50px"/>](https://www.linkedin.com/in/pedroa-perez/)
-[<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width="50px"/>](https://www.instagram.com/pedropp98/)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" width="30px"/>](https://github.com/pedrousp)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" width="30px"/>](https://t.me/pedropp98)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30px"/>](https://www.linkedin.com/in/pedroa-perez/)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width="30px"/>](https://www.instagram.com/pedropp98/)
 <!--
 **pedrousp/pedrousp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
